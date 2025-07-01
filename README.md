@@ -6,6 +6,15 @@ It contains a simple Java program that prints **"Hello, World!"** to the console
 
 ## 📁 File Structure
 
+HelloWorld-Java/
+├── HelloWorld.java
+
+csharp
+Copy
+Edit
+
+## 🧾 Code
+
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
@@ -37,3 +46,7 @@ Learn how to write a good README file
 📦 Ready for more!
 
 Thanks for checking out my repo! 😊
+
+yaml
+Copy
+Edit
