@@ -3,5 +3,6 @@ public class New1 {
         System.out.println("Hello, World!");
         System.out.println("This is a new Java file.");
         System.out.println("It contains a simple main method.");
+        System.out.println("Made Changes!!!");
     }
 }
